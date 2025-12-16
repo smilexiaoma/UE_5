@@ -1,0 +1,38 @@
+{
+  "train": [
+    {
+      "blendshape_loss": 0.020999588215580352,
+      "head_pose_loss": 0.5067029343201563,
+      "temporal_loss": 0.009583716352398578,
+      "lip_sync_loss": 0.020144351686422642,
+      "emotion_consistency_loss": 0.010479249346714754,
+      "total_loss": 0.28344857692718506
+    },
+    {
+      "blendshape_loss": 0.01770679423442254,
+      "head_pose_loss": 0.4865429172149071,
+      "temporal_loss": 0.00523094403055998,
+      "lip_sync_loss": 0.01718815158192928,
+      "emotion_consistency_loss": 0.00221236995779551,
+      "total_loss": 0.267100256222945
+    }
+  ],
+  "val": [
+    {
+      "blendshape_loss": 0.017667736237247784,
+      "head_pose_loss": 0.5140113035837809,
+      "temporal_loss": 0.0019314435000220935,
+      "lip_sync_loss": 0.017277720694740612,
+      "emotion_consistency_loss": 0.01314310481150945,
+      "total_loss": 0.2826784650484721
+    },
+    {
+      "blendshape_loss": 0.016475419824322064,
+      "head_pose_loss": 0.5177225271860758,
+      "temporal_loss": 0.0013546947157010436,
+      "lip_sync_loss": 0.016305627922217052,
+      "emotion_consistency_loss": 0.011991078654925028,
+      "total_loss": 0.2827620605627696
+    }
+  ]
+}

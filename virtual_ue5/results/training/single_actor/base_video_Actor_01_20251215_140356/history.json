@@ -1,0 +1,1406 @@
+{
+  "train": [
+    {
+      "blendshape_loss": 10.590857245705344,
+      "head_pose_loss": 0.7713557427579706,
+      "temporal_loss": 0.19770266115665436,
+      "intensity_loss": 12.699945536526767,
+      "total_loss": 11.123304973949086
+    },
+    {
+      "blendshape_loss": 9.295736399563877,
+      "head_pose_loss": 0.14121377739039334,
+      "temporal_loss": 0.1888514066284353,
+      "intensity_loss": 12.920093102888627,
+      "total_loss": 9.514429525895553
+    },
+    {
+      "blendshape_loss": 8.818613225763494,
+      "head_pose_loss": 0.09351253441788933,
+      "temporal_loss": 0.1917308677326549,
+      "intensity_loss": 13.050382007252086,
+      "total_loss": 9.015046466480602
+    },
+    {
+      "blendshape_loss": 8.489429213783957,
+      "head_pose_loss": 0.08345684002746236,
+      "temporal_loss": 0.19321971183473413,
+      "intensity_loss": 13.114568623629483,
+      "total_loss": 8.681625106117941
+    },
+    {
+      "blendshape_loss": 8.238911108537154,
+      "head_pose_loss": 0.07427174801176245,
+      "temporal_loss": 0.19037161090157248,
+      "intensity_loss": 13.26529615575617,
+      "total_loss": 8.42773706262762
+    },
+    {
+      "blendshape_loss": 8.027848893945867,
+      "head_pose_loss": 0.06850724802775816,
+      "temporal_loss": 0.18903371691703796,
+      "intensity_loss": 13.401253613558682,
+      "total_loss": 8.215018359097568
+    },
+    {
+      "blendshape_loss": 7.75756194374778,
+      "head_pose_loss": 0.06659680740399794,
+      "temporal_loss": 0.1894604197957299,
+      "intensity_loss": 13.534868760542436,
+      "total_loss": 7.945155187086626
+    },
+    {
+      "blendshape_loss": 7.486509149724787,
+      "head_pose_loss": 0.06603882732716473,
+      "temporal_loss": 0.19229290837591345,
+      "intensity_loss": 13.816477862271396,
+      "total_loss": 7.676922624761408
+    },
+    {
+      "blendshape_loss": 7.228565562855113,
+      "head_pose_loss": 0.06371071934700012,
+      "temporal_loss": 0.18958284638144754,
+      "intensity_loss": 13.98648435419256,
+      "total_loss": 7.419243855909868
+    },
+    {
+      "blendshape_loss": 7.022690773010254,
+      "head_pose_loss": 0.06168991665948521,
+      "temporal_loss": 0.18369987607002258,
+      "intensity_loss": 14.085595391013406,
+      "total_loss": 7.212761662223122
+    },
+    {
+      "blendshape_loss": 6.8655219078063965,
+      "head_pose_loss": 0.05778257176280022,
+      "temporal_loss": 0.18173574588515543,
+      "intensity_loss": 14.14595517245206,
+      "total_loss": 7.05404637076638
+    },
+    {
+      "blendshape_loss": 6.724182735789906,
+      "head_pose_loss": 0.05676928772167726,
+      "temporal_loss": 0.17759823257272894,
+      "intensity_loss": 14.202957760203969,
+      "total_loss": 6.912356853485107
+    },
+    {
+      "blendshape_loss": 6.588100433349609,
+      "head_pose_loss": 0.05394994501363148,
+      "temporal_loss": 0.17578709802844308,
+      "intensity_loss": 14.27928265658292,
+      "total_loss": 6.775446935133501
+    },
+    {
+      "blendshape_loss": 6.462080912156538,
+      "head_pose_loss": 0.052393155680461365,
+      "temporal_loss": 0.17375391179865057,
+      "intensity_loss": 14.346611976623535,
+      "total_loss": 6.649118986996737
+    },
+    {
+      "blendshape_loss": 6.340440359982577,
+      "head_pose_loss": 0.052465865896506744,
+      "temporal_loss": 0.1705139861865477,
+      "intensity_loss": 14.415679844942959,
+      "total_loss": 6.52788157896562
+    },
+    {
+      "blendshape_loss": 6.236003528941762,
+      "head_pose_loss": 0.05103751305829395,
+      "temporal_loss": 0.16984175145626068,
+      "intensity_loss": 14.470049511302602,
+      "total_loss": 6.423206936229359
+    },
+    {
+      "blendshape_loss": 6.124997745860707,
+      "head_pose_loss": 0.04996221343224699,
+      "temporal_loss": 0.1682591817595742,
+      "intensity_loss": 14.53979405489835,
+      "total_loss": 6.312202713706276
+    },
+    {
+      "blendshape_loss": 6.018039920113304,
+      "head_pose_loss": 0.04992151057178324,
+      "temporal_loss": 0.16597149995240298,
+      "intensity_loss": 14.59132125160911,
+      "total_loss": 6.20551096309315
+    },
+    {
+      "blendshape_loss": 5.90663515437733,
+      "head_pose_loss": 0.04849714955145663,
+      "temporal_loss": 0.1639569184996865,
+      "intensity_loss": 14.653294649991123,
+      "total_loss": 6.09381237897006
+    },
+    {
+      "blendshape_loss": 5.797342387112704,
+      "head_pose_loss": 0.04800945859063755,
+      "temporal_loss": 0.16097527742385864,
+      "intensity_loss": 14.712324315851385,
+      "total_loss": 5.984567945653742
+    },
+    {
+      "blendshape_loss": 5.703749179840088,
+      "head_pose_loss": 0.04702555997805162,
+      "temporal_loss": 0.16096366535533557,
+      "intensity_loss": 14.774165586991744,
+      "total_loss": 5.891100016507235
+    },
+    {
+      "blendshape_loss": 5.61017335544933,
+      "head_pose_loss": 0.04730043729597872,
+      "temporal_loss": 0.15952314165505496,
+      "intensity_loss": 14.835509993813254,
+      "total_loss": 5.798130989074707
+    },
+    {
+      "blendshape_loss": 5.504443472081965,
+      "head_pose_loss": 0.047113182869824494,
+      "temporal_loss": 0.15671581029891968,
+      "intensity_loss": 14.904499834234064,
+      "total_loss": 5.692716771906072
+    },
+    {
+      "blendshape_loss": 5.419815800406716,
+      "head_pose_loss": 0.045134779404510154,
+      "temporal_loss": 0.155826598405838,
+      "intensity_loss": 14.956537420099432,
+      "total_loss": 5.6075312007557265
+    },
+    {
+      "blendshape_loss": 5.328185471621427,
+      "head_pose_loss": 0.04610851474783637,
+      "temporal_loss": 0.1536671749570153,
+      "intensity_loss": 15.018541075966574,
+      "total_loss": 5.516791863874956
+    },
+    {
+      "blendshape_loss": 5.2345496524464,
+      "head_pose_loss": 0.0438332666050304,
+      "temporal_loss": 0.15140969780358401,
+      "intensity_loss": 15.081381364302201,
+      "total_loss": 5.4224210218949755
+    },
+    {
+      "blendshape_loss": 5.156796065243808,
+      "head_pose_loss": 0.043730195950378074,
+      "temporal_loss": 0.15043964982032776,
+      "intensity_loss": 15.136724298650568,
+      "total_loss": 5.345072269439697
+    },
+    {
+      "blendshape_loss": 5.072814464569092,
+      "head_pose_loss": 0.04679213261062449,
+      "temporal_loss": 0.14883496950973163,
+      "intensity_loss": 15.202183376659047,
+      "total_loss": 5.263115752827037
+    },
+    {
+      "blendshape_loss": 4.995357166637074,
+      "head_pose_loss": 0.04485855217684399,
+      "temporal_loss": 0.1484509123997255,
+      "intensity_loss": 15.264143336902965,
+      "total_loss": 5.185273083773526
+    },
+    {
+      "blendshape_loss": 4.920622132041237,
+      "head_pose_loss": 0.04322240501642227,
+      "temporal_loss": 0.14705456522378055,
+      "intensity_loss": 15.324000098488547,
+      "total_loss": 5.1101787740534
+    },
+    {
+      "blendshape_loss": 4.8366945440118965,
+      "head_pose_loss": 0.04220151020721956,
+      "temporal_loss": 0.14532508633353494,
+      "intensity_loss": 15.389511541886764,
+      "total_loss": 5.0262228358875625
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    }
+  ],
+  "val": [
+    {
+      "blendshape_loss": 9.257377942403158,
+      "head_pose_loss": 0.17445083955923715,
+      "temporal_loss": 0.000547395747465392,
+      "intensity_loss": 12.749622662862143,
+      "total_loss": 9.472154299418131
+    },
+    {
+      "blendshape_loss": 8.67330233256022,
+      "head_pose_loss": 0.0759278933207194,
+      "temporal_loss": 0.00043684076323794824,
+      "intensity_loss": 13.009282430013021,
+      "total_loss": 8.841403007507324
+    },
+    {
+      "blendshape_loss": 8.304532368977865,
+      "head_pose_loss": 0.0644219530125459,
+      "temporal_loss": 0.00034425119520165026,
+      "intensity_loss": 13.048686027526855,
+      "total_loss": 8.467264811197916
+    },
+    {
+      "blendshape_loss": 8.043912251790365,
+      "head_pose_loss": 0.06093492110570272,
+      "temporal_loss": 0.0002835953588752697,
+      "intensity_loss": 13.160699208577475,
+      "total_loss": 8.206015268961588
+    },
+    {
+      "blendshape_loss": 7.821656227111816,
+      "head_pose_loss": 0.05738940710822741,
+      "temporal_loss": 0.00026905003081386286,
+      "intensity_loss": 13.340905825297037,
+      "total_loss": 7.983786741892497
+    },
+    {
+      "blendshape_loss": 7.58845869700114,
+      "head_pose_loss": 0.057109865049521126,
+      "temporal_loss": 0.00026552212754419696,
+      "intensity_loss": 13.440147082010904,
+      "total_loss": 7.751441637674968
+    },
+    {
+      "blendshape_loss": 7.303390343983968,
+      "head_pose_loss": 0.05418366317947706,
+      "temporal_loss": 0.0002726742047040413,
+      "intensity_loss": 13.623885154724121,
+      "total_loss": 7.466748396555583
+    },
+    {
+      "blendshape_loss": 6.9998453458150225,
+      "head_pose_loss": 0.057915013283491135,
+      "temporal_loss": 0.0002766261071277161,
+      "intensity_loss": 14.021565119425455,
+      "total_loss": 7.169046084086101
+    },
+    {
+      "blendshape_loss": 6.783096790313721,
+      "head_pose_loss": 0.05555665617187818,
+      "temporal_loss": 0.00024256124258196601,
+      "intensity_loss": 14.033361434936523,
+      "total_loss": 6.9512332280476885
+    },
+    {
+      "blendshape_loss": 6.607717037200928,
+      "head_pose_loss": 0.05243798469503721,
+      "temporal_loss": 0.0002170669031329453,
+      "intensity_loss": 14.181887944539389,
+      "total_loss": 6.775776545206706
+    },
+    {
+      "blendshape_loss": 6.467648347218831,
+      "head_pose_loss": 0.05092412233352661,
+      "temporal_loss": 0.00020843601669184864,
+      "intensity_loss": 14.194953282674154,
+      "total_loss": 6.635080973307292
+    },
+    {
+      "blendshape_loss": 6.336213111877441,
+      "head_pose_loss": 0.0517794614036878,
+      "temporal_loss": 0.00019982108885111907,
+      "intensity_loss": 14.277223587036133,
+      "total_loss": 6.504895051320394
+    },
+    {
+      "blendshape_loss": 6.216583728790283,
+      "head_pose_loss": 0.048227161169052124,
+      "temporal_loss": 0.00019074427837040275,
+      "intensity_loss": 14.337827682495117,
+      "total_loss": 6.384094715118408
+    },
+    {
+      "blendshape_loss": 6.101929346720378,
+      "head_pose_loss": 0.04863674441973368,
+      "temporal_loss": 0.00018315911681080857,
+      "intensity_loss": 14.416643142700195,
+      "total_loss": 6.270432472229004
+    },
+    {
+      "blendshape_loss": 5.9920603434244795,
+      "head_pose_loss": 0.04883923878272375,
+      "temporal_loss": 0.00017606381637354693,
+      "intensity_loss": 14.473655382792154,
+      "total_loss": 6.161234378814697
+    },
+    {
+      "blendshape_loss": 5.883984247843425,
+      "head_pose_loss": 0.04945634678006172,
+      "temporal_loss": 0.00017007509207663438,
+      "intensity_loss": 14.537833213806152,
+      "total_loss": 6.054107824961345
+    },
+    {
+      "blendshape_loss": 5.7788214683532715,
+      "head_pose_loss": 0.04744334767262141,
+      "temporal_loss": 0.00016396392796499035,
+      "intensity_loss": 14.604153633117676,
+      "total_loss": 5.9486009279886884
+    },
+    {
+      "blendshape_loss": 5.676862875620524,
+      "head_pose_loss": 0.048041547338167824,
+      "temporal_loss": 0.00015959577285684645,
+      "intensity_loss": 14.668656349182129,
+      "total_loss": 5.847586313883464
+    },
+    {
+      "blendshape_loss": 5.575010935465495,
+      "head_pose_loss": 0.04668511636555195,
+      "temporal_loss": 0.0001560385717311874,
+      "intensity_loss": 14.730179786682129,
+      "total_loss": 5.7456709543863935
+    },
+    {
+      "blendshape_loss": 5.47666581471761,
+      "head_pose_loss": 0.04770618056257566,
+      "temporal_loss": 0.00015260818084546676,
+      "intensity_loss": 14.7973051071167,
+      "total_loss": 5.648507118225098
+    },
+    {
+      "blendshape_loss": 5.382314523061116,
+      "head_pose_loss": 0.04526712745428085,
+      "temporal_loss": 0.0001498135801133079,
+      "intensity_loss": 14.859180768330893,
+      "total_loss": 5.553554693857829
+    },
+    {
+      "blendshape_loss": 5.290915489196777,
+      "head_pose_loss": 0.04551182190577189,
+      "temporal_loss": 0.00014745481651819622,
+      "intensity_loss": 14.921281814575195,
+      "total_loss": 5.462899208068848
+    },
+    {
+      "blendshape_loss": 5.202131907145183,
+      "head_pose_loss": 0.04451121514042219,
+      "temporal_loss": 0.0001450944813162399,
+      "intensity_loss": 14.983430862426758,
+      "total_loss": 5.374236265818278
+    },
+    {
+      "blendshape_loss": 5.116195996602376,
+      "head_pose_loss": 0.044596332435806595,
+      "temporal_loss": 0.0001431371759584484,
+      "intensity_loss": 15.044466018676758,
+      "total_loss": 5.288952827453613
+    },
+    {
+      "blendshape_loss": 5.0321048100789385,
+      "head_pose_loss": 0.04520012562473615,
+      "temporal_loss": 0.00014148554328130558,
+      "intensity_loss": 15.106370608011881,
+      "total_loss": 5.205782572428386
+    },
+    {
+      "blendshape_loss": 4.95021120707194,
+      "head_pose_loss": 0.04329399267832438,
+      "temporal_loss": 0.00013998287370971715,
+      "intensity_loss": 15.167124430338541,
+      "total_loss": 5.123543421427409
+    },
+    {
+      "blendshape_loss": 4.870560805002849,
+      "head_pose_loss": 0.04608126108845075,
+      "temporal_loss": 0.0001386525206423054,
+      "intensity_loss": 15.228854179382324,
+      "total_loss": 5.04590368270874
+    },
+    {
+      "blendshape_loss": 4.792932510375977,
+      "head_pose_loss": 0.04380031550923983,
+      "temporal_loss": 0.00013750188130264482,
+      "intensity_loss": 15.292832374572754,
+      "total_loss": 4.967774709065755
+    },
+    {
+      "blendshape_loss": 4.717595100402832,
+      "head_pose_loss": 0.04527218888203303,
+      "temporal_loss": 0.00013641427600911507,
+      "intensity_loss": 15.35252316792806,
+      "total_loss": 4.893769900004069
+    },
+    {
+      "blendshape_loss": 4.644351005554199,
+      "head_pose_loss": 0.0437658696124951,
+      "temporal_loss": 0.0001353614279651083,
+      "intensity_loss": 15.411936442057291,
+      "total_loss": 4.820367018381755
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    },
+    {
+      "blendshape_loss": NaN,
+      "head_pose_loss": NaN,
+      "temporal_loss": NaN,
+      "intensity_loss": NaN,
+      "total_loss": NaN
+    }
+  ]
+}

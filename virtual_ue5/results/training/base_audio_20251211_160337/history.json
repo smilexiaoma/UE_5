@@ -1,0 +1,20 @@
+{
+  "train": [
+    {
+      "blendshape_loss": 0.9341051077842712,
+      "head_pose_loss": 1.0944426107406615,
+      "temporal_loss": 1.593987045288086,
+      "intensity_loss": 13.850199127197266,
+      "total_loss": 1.77922709941864
+    }
+  ],
+  "val": [
+    {
+      "blendshape_loss": 0.7738839745521545,
+      "head_pose_loss": 1.1092909097671508,
+      "temporal_loss": 1.4285056829452514,
+      "intensity_loss": 14.3251127243042,
+      "total_loss": 1.6146311283111572
+    }
+  ]
+}

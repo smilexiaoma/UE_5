@@ -1,0 +1,16 @@
+{
+  "model": "diffusion",
+  "data_dir": "/root/autodl-tmp/digietal_data/1188976",
+  "actor": "Actor_01",
+  "max_samples": null,
+  "emotions": null,
+  "epochs": 50,
+  "batch_size": 16,
+  "lr": 0.0001,
+  "weight_decay": 1e-05,
+  "seq_len": 100,
+  "seed": 42,
+  "save_dir": "results/innovation_training",
+  "use_cache": true,
+  "num_workers": 0
+}

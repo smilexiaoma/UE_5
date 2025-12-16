@@ -1,0 +1,24 @@
+# 深度学习框架
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# 数值计算
+numpy>=1.24.0
+scipy>=1.10.0
+
+# 音视频处理
+librosa>=0.10.0
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+soundfile>=0.12.0
+
+# 工具库
+einops>=0.7.0
+tqdm>=4.65.0
+matplotlib>=3.7.0
+tensorboard>=2.14.0
+
+# 注意: 需要系统安装 ffmpeg 用于音频提取
+# Ubuntu: sudo apt-get install ffmpeg
+# macOS: brew install ffmpeg

@@ -1,0 +1,11 @@
+{
+  "model": "base_audio",
+  "epochs": 1,
+  "batch_size": 2,
+  "lr": 0.0001,
+  "weight_decay": 1e-05,
+  "seed": 42,
+  "num_samples": 50,
+  "seq_len": 100,
+  "save_dir": "results/training"
+}

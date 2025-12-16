@@ -1,0 +1,16 @@
+{
+  "model": "base_audio",
+  "data_dir": "data/1188976",
+  "actor": "Actor_01",
+  "max_samples": null,
+  "emotions": null,
+  "epochs": 50,
+  "batch_size": 8,
+  "lr": 0.0001,
+  "weight_decay": 1e-05,
+  "seq_len": 100,
+  "seed": 42,
+  "save_dir": "../results/single_actor/base_audio_Actor_01_20251214_194436",
+  "use_cache": true,
+  "num_workers": 0
+}

@@ -1,0 +1,42 @@
+{
+  "train": [
+    {
+      "blendshape_loss": 0.23914884775877,
+      "head_pose_loss": 0.08457601442933083,
+      "temporal_loss": 0.004365592496469617,
+      "total_loss": 0.2818734273314476
+    },
+    {
+      "blendshape_loss": 0.21182312071323395,
+      "head_pose_loss": 0.008879662724211812,
+      "temporal_loss": 0.004100760677829385,
+      "total_loss": 0.21667302399873734
+    },
+    {
+      "blendshape_loss": 0.19442500174045563,
+      "head_pose_loss": 0.006997039541602135,
+      "temporal_loss": 0.004039514809846878,
+      "total_loss": 0.198327474296093
+    }
+  ],
+  "val": [
+    {
+      "blendshape_loss": 0.21603572368621826,
+      "head_pose_loss": 0.008264792151749134,
+      "temporal_loss": 0.00015504546172451228,
+      "total_loss": 0.2201836109161377
+    },
+    {
+      "blendshape_loss": 0.19211402535438538,
+      "head_pose_loss": 0.005287781823426485,
+      "temporal_loss": 0.00011774117592722178,
+      "total_loss": 0.1947696954011917
+    },
+    {
+      "blendshape_loss": 0.1849062144756317,
+      "head_pose_loss": 0.0036377524957060814,
+      "temporal_loss": 0.00010303514136467129,
+      "total_loss": 0.1867353916168213
+    }
+  ]
+}

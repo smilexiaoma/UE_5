@@ -1,0 +1,16 @@
+{
+  "model": "base_audio",
+  "data_dir": "data/1188976",
+  "actor": null,
+  "max_samples": null,
+  "emotions": null,
+  "epochs": 100,
+  "batch_size": 32,
+  "lr": 0.0001,
+  "weight_decay": 1e-05,
+  "seq_len": 100,
+  "seed": 42,
+  "save_dir": "results/baseline_full_dataset/base_audio",
+  "use_cache": true,
+  "num_workers": 4
+}
